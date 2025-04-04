@@ -1,20 +1,3 @@
-# Following the below folder structure for this project
-  src/
-  ├── components/
-  │   ├── CheckboxOption.tsx
-  │   ├── PasswordDisplay.tsx
-  │   └── PasswordForm.tsx
-  ├── constants/
-  │   └── validation.ts
-  ├── hooks/
-  │   └── usePasswordGenerator.ts
-  ├── screens/
-  │   └── PasswordGeneratorScreen.tsx
-  ├── styles/
-  │   └── styles.ts
-  └── utils/
-      └── passwordUtils.ts
-
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
